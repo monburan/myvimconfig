@@ -1,0 +1,14 @@
+set nocompatible
+syntax enable
+syntax on
+set t_Co=256
+set background=dark
+colorscheme solarized
+set autoindent
+set tabstop=4
+set number
+set ruler
+set shortmess=atI
+set cursorline
+set cursorcolumn
+set hlsearch
